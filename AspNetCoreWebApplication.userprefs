@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{7952D967-5E04-40FC-95D4-E87C3A66F150}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AspNetCoreWebApplication/appsettings.json">
+    <Files>
+      <File FileName="AspNetCoreWebApplication/Controllers/HomeController.cs" Line="1" Column="1" />
+      <File FileName="AspNetCoreWebApplication/appsettings.json" Line="1" Column="1" />
+      <File FileName="AspNetCoreWebApplication/.bowerrc" Line="1" Column="1" />
+      <File FileName="AspNetCoreWebApplication/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="AspNetCoreWebApplication/bower.json" Line="1" Column="1" />
+      <File FileName="AspNetCoreWebApplication/bundleconfig.json" Line="1" Column="1" />
+      <File FileName="AspNetCoreWebApplication/Startup.cs" Line="1" Column="1" />
+      <File FileName="AspNetCoreWebApplication/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="AspNetCoreWebApplication/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="AspNetCoreWebApplication/Views/Home/Index.cshtml" Line="1" Column="1" />
+      <File FileName="AspNetCoreWebApplication/Program.cs" Line="1" Column="1" />
+      <File FileName="AspNetCoreWebApplication/Properties/launchSettings.json" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AspNetCoreWebApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
